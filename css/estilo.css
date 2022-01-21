@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+body{
+    background-color:rgb(99, 40, 238);
+}
+
+h2{
+    text-align: center;
+    color: rgb(233, 16, 204);
+}
+
+p{
+    color:blanchedalmond;
+    font-family: sans-serif;
+    font-size: large;
+    text-align: center;
+
+
+}
+
+.d-block{
+    width: 400px;
+    height: 1000px;
+   
+}
